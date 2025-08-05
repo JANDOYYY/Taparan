@@ -1,0 +1,94 @@
+h1 {
+    color: rgb(8, 5, 5);
+    font-family: cursive;
+    justify-content: center;
+    position: absolute;
+    top: 25%;
+    left: 41%;
+
+}
+
+h2 {
+    color: rgb(8, 5, 5);
+    font-family: cursive;
+    justify-content: center;
+    position: absolute;
+    top: 25%;
+    left: 47%;
+    
+}
+p   {   
+    color: rgb(245, 1, 1);
+    font-size: x-large;
+    font-weight: bold;
+    font-family: cursive;
+    position:absolute; 
+    top: 60%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+body {
+background-color: rgb(221, 213, 143);
+
+}
+button {
+    font-size: x-large;
+    border-radius: 25px;
+}
+.green-element {  
+
+    background-color: teal;
+      }
+ol {
+font-size: x-large;
+font-family: cursive;
+color: rgb(0, 0, 0);
+}
+.name {
+    background-color: rgb(255, 255, 255);
+}
+.Title {
+    font-size: xx-large;
+    font-family: cursive;
+}
+h3 {
+    font-size: xx-large;
+    position:absolute; 
+    top: 35%;
+    left: 51%;
+    transform: translate(-50%, -50%);
+
+}
+.answer {
+    font-style: italic;
+}
+button { 
+    background-color: aqua;
+    
+}
+#sagot {
+
+ color: black;
+ position:absolute; 
+    top: 50%;
+    left: 47%;
+    transform: translate(-50%, -50%);
+    
+}
+#No {
+
+    color: red;
+    position:absolute; 
+    top: 50%;
+    left: 53%;
+    transform: translate(-50%, -50%);
+    
+}
+
+video {
+     position: absolute;
+     top: 50%;
+     left: 50%;
+     transform: translate(-50%, -50%);
+     border-radius: 25px;
+}
